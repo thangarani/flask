@@ -1,2 +1,0 @@
- cd into the cloned project and download PreSumm
- git clone https://github.com/nlpyang/PreSumm.git
